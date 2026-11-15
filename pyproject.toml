@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "propforge"
+version = "0.1.0"
+description = "Procedural low-poly game props -> GLB. Zero dependencies, one file."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [{ name = "propforge contributors" }]
+keywords = ["gamedev", "glb", "gltf", "low-poly", "3d-assets", "godot", "unity", "unreal"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Topic :: Games/Entertainment",
+  "Topic :: Multimedia :: Graphics :: 3D Modeling",
+]
+
+[project.scripts]
+propforge = "propforge:main"
+
+[tool.setuptools]
+py-modules = ["propforge"]

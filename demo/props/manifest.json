@@ -1,0 +1,331 @@
+{
+  "generator": "propforge 0.1.0",
+  "seed": 7,
+  "count": 27,
+  "props": [
+    {
+      "file": "barrel_01.glb",
+      "family": "barrel",
+      "tris": 392,
+      "materials": 2,
+      "bytes": 29744,
+      "size": [
+        0.62,
+        0.605,
+        1.071
+      ]
+    },
+    {
+      "file": "crate_01.glb",
+      "family": "crate",
+      "tris": 156,
+      "materials": 2,
+      "bytes": 12740,
+      "size": [
+        0.678,
+        0.678,
+        0.637
+      ]
+    },
+    {
+      "file": "pallet_01.glb",
+      "family": "pallet",
+      "tris": 156,
+      "materials": 2,
+      "bytes": 12648,
+      "size": [
+        1.2,
+        1.0,
+        0.138
+      ]
+    },
+    {
+      "file": "tree_pine_01.glb",
+      "family": "tree_pine",
+      "tris": 86,
+      "materials": 2,
+      "bytes": 7728,
+      "size": [
+        1.808,
+        1.836,
+        3.274
+      ]
+    },
+    {
+      "file": "tree_round_01.glb",
+      "family": "tree_round",
+      "tris": 352,
+      "materials": 2,
+      "bytes": 26880,
+      "size": [
+        1.934,
+        1.479,
+        2.532
+      ]
+    },
+    {
+      "file": "bush_01.glb",
+      "family": "bush",
+      "tris": 240,
+      "materials": 1,
+      "bytes": 18184,
+      "size": [
+        0.914,
+        0.776,
+        0.646
+      ]
+    },
+    {
+      "file": "rock_01.glb",
+      "family": "rock",
+      "tris": 160,
+      "materials": 1,
+      "bytes": 12420,
+      "size": [
+        1.38,
+        1.195,
+        0.847
+      ]
+    },
+    {
+      "file": "fence_01.glb",
+      "family": "fence",
+      "tris": 48,
+      "materials": 1,
+      "bytes": 4328,
+      "size": [
+        2.47,
+        0.1,
+        0.923
+      ]
+    },
+    {
+      "file": "street_lamp_01.glb",
+      "family": "street_lamp",
+      "tris": 100,
+      "materials": 2,
+      "bytes": 8676,
+      "size": [
+        0.88,
+        0.32,
+        4.107
+      ]
+    },
+    {
+      "file": "bench_01.glb",
+      "family": "bench",
+      "tris": 72,
+      "materials": 2,
+      "bytes": 6616,
+      "size": [
+        1.797,
+        0.46,
+        0.89
+      ]
+    },
+    {
+      "file": "dumpster_01.glb",
+      "family": "dumpster",
+      "tris": 112,
+      "materials": 2,
+      "bytes": 9560,
+      "size": [
+        1.957,
+        1.15,
+        1.278
+      ]
+    },
+    {
+      "file": "traffic_cone_01.glb",
+      "family": "traffic_cone",
+      "tris": 92,
+      "materials": 2,
+      "bytes": 8172,
+      "size": [
+        0.349,
+        0.349,
+        0.545
+      ]
+    },
+    {
+      "file": "barrier_01.glb",
+      "family": "barrier",
+      "tris": 84,
+      "materials": 3,
+      "bytes": 8072,
+      "size": [
+        1.535,
+        0.6,
+        1.09
+      ]
+    },
+    {
+      "file": "planter_01.glb",
+      "family": "planter",
+      "tris": 344,
+      "materials": 3,
+      "bytes": 26912,
+      "size": [
+        0.83,
+        0.682,
+        0.973
+      ]
+    },
+    {
+      "file": "mailbox_01.glb",
+      "family": "mailbox",
+      "tris": 76,
+      "materials": 3,
+      "bytes": 7488,
+      "size": [
+        0.59,
+        0.44,
+        1.444
+      ]
+    },
+    {
+      "file": "hydrant_01.glb",
+      "family": "hydrant",
+      "tris": 240,
+      "materials": 2,
+      "bytes": 18752,
+      "size": [
+        0.44,
+        0.285,
+        0.762
+      ]
+    },
+    {
+      "file": "ac_unit_01.glb",
+      "family": "ac_unit",
+      "tris": 108,
+      "materials": 2,
+      "bytes": 9208,
+      "size": [
+        0.992,
+        0.52,
+        0.623
+      ]
+    },
+    {
+      "file": "generator_01.glb",
+      "family": "generator",
+      "tris": 92,
+      "materials": 2,
+      "bytes": 8052,
+      "size": [
+        0.95,
+        0.6,
+        0.89
+      ]
+    },
+    {
+      "file": "table_01.glb",
+      "family": "table",
+      "tris": 60,
+      "materials": 1,
+      "bytes": 5224,
+      "size": [
+        1.093,
+        0.658,
+        0.769
+      ]
+    },
+    {
+      "file": "chair_01.glb",
+      "family": "chair",
+      "tris": 72,
+      "materials": 1,
+      "bytes": 6036,
+      "size": [
+        0.45,
+        0.45,
+        0.925
+      ]
+    },
+    {
+      "file": "sign_01.glb",
+      "family": "sign",
+      "tris": 60,
+      "materials": 3,
+      "bytes": 6312,
+      "size": [
+        0.72,
+        0.07,
+        1.905
+      ]
+    },
+    {
+      "file": "tire_stack_01.glb",
+      "family": "tire_stack",
+      "tris": 96,
+      "materials": 1,
+      "bytes": 7816,
+      "size": [
+        0.63,
+        0.647,
+        0.38
+      ]
+    },
+    {
+      "file": "sandbags_01.glb",
+      "family": "sandbags",
+      "tris": 60,
+      "materials": 1,
+      "bytes": 5212,
+      "size": [
+        1.474,
+        0.372,
+        0.56
+      ]
+    },
+    {
+      "file": "campfire_01.glb",
+      "family": "campfire",
+      "tris": 242,
+      "materials": 4,
+      "bytes": 20344,
+      "size": [
+        1.095,
+        1.123,
+        0.597
+      ]
+    },
+    {
+      "file": "tent_01.glb",
+      "family": "tent",
+      "tris": 54,
+      "materials": 2,
+      "bytes": 5368,
+      "size": [
+        1.707,
+        1.6,
+        1.121
+      ]
+    },
+    {
+      "file": "shelf_rack_01.glb",
+      "family": "shelf_rack",
+      "tris": 96,
+      "materials": 2,
+      "bytes": 8348,
+      "size": [
+        1.58,
+        0.68,
+        2.0
+      ]
+    },
+    {
+      "file": "car_01.glb",
+      "family": "car",
+      "tris": 400,
+      "materials": 4,
+      "bytes": 31396,
+      "size": [
+        3.931,
+        1.97,
+        1.27
+      ]
+    }
+  ]
+}
